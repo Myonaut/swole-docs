@@ -6,7 +6,7 @@
 Welcome to SwoleScript's documentation!
 =======================================
 
-Testing
+Testing docs
 
 .. code-block::
 
