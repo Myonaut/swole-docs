@@ -15,6 +15,8 @@ author = 'Nox'
 
 extensions = [
     'sphinx_rtd_theme',
+    'sphinx_search.extension',
+    'hoverxref.extension',
 ]
 
 templates_path = ['_templates']
